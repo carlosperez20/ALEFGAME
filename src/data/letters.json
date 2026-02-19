@@ -1,0 +1,200 @@
+[
+  {
+    "id": "alef",
+    "char": "א",
+    "name": "Alef",
+    "value": 1,
+    "meaning": "Inicio / unidad",
+    "audio": "",
+    "color": "#1F3A5F"
+  },
+  {
+    "id": "bet",
+    "char": "ב",
+    "name": "Bet",
+    "value": 2,
+    "meaning": "Casa",
+    "audio": "",
+    "color": "#2B5C8A"
+  },
+  {
+    "id": "gimel",
+    "char": "ג",
+    "name": "Guímel",
+    "value": 3,
+    "meaning": "Camello / dar",
+    "audio": "",
+    "color": "#3A7CA5"
+  },
+  {
+    "id": "dalet",
+    "char": "ד",
+    "name": "Dálet",
+    "value": 4,
+    "meaning": "Puerta",
+    "audio": "",
+    "color": "#2E5D63"
+  },
+  {
+    "id": "he",
+    "char": "ה",
+    "name": "He",
+    "value": 5,
+    "meaning": "Aliento",
+    "audio": "",
+    "color": "#4C6A5A"
+  },
+  {
+    "id": "vav",
+    "char": "ו",
+    "name": "Vav",
+    "value": 6,
+    "meaning": "Gancho / unión",
+    "audio": "",
+    "color": "#6B7A4A"
+  },
+  {
+    "id": "zayin",
+    "char": "ז",
+    "name": "Zayin",
+    "value": 7,
+    "meaning": "Herramienta",
+    "audio": "",
+    "color": "#8A7B3E"
+  },
+  {
+    "id": "chet",
+    "char": "ח",
+    "name": "Jet",
+    "value": 8,
+    "meaning": "Vida / cerca",
+    "audio": "",
+    "color": "#7A5A3E"
+  },
+  {
+    "id": "tet",
+    "char": "ט",
+    "name": "Tet",
+    "value": 9,
+    "meaning": "Bien",
+    "audio": "",
+    "color": "#8C4F4F"
+  },
+  {
+    "id": "yod",
+    "char": "י",
+    "name": "Yod",
+    "value": 10,
+    "meaning": "Mano / punto",
+    "audio": "",
+    "color": "#6A4C8A"
+  },
+  {
+    "id": "kaf",
+    "char": "כ",
+    "name": "Kaf",
+    "value": 20,
+    "meaning": "Palma",
+    "audio": "",
+    "color": "#4A6A8C"
+  },
+  {
+    "id": "lamed",
+    "char": "ל",
+    "name": "Lámed",
+    "value": 30,
+    "meaning": "Aprender",
+    "audio": "",
+    "color": "#2F6F73"
+  },
+  {
+    "id": "mem",
+    "char": "מ",
+    "name": "Mem",
+    "value": 40,
+    "meaning": "Agua",
+    "audio": "",
+    "color": "#2F6A8C"
+  },
+  {
+    "id": "nun",
+    "char": "נ",
+    "name": "Nun",
+    "value": 50,
+    "meaning": "Pez / continuidad",
+    "audio": "",
+    "color": "#3B6F5C"
+  },
+  {
+    "id": "samekh",
+    "char": "ס",
+    "name": "Sámej",
+    "value": 60,
+    "meaning": "Soporte",
+    "audio": "",
+    "color": "#6B6B6B"
+  },
+  {
+    "id": "ayin",
+    "char": "ע",
+    "name": "Ayin",
+    "value": 70,
+    "meaning": "Ojo / ver",
+    "audio": "",
+    "color": "#7A5D6A"
+  },
+  {
+    "id": "pe",
+    "char": "פ",
+    "name": "Pe",
+    "value": 80,
+    "meaning": "Boca / hablar",
+    "audio": "",
+    "color": "#8A6A3A"
+  },
+  {
+    "id": "tsadi",
+    "char": "צ",
+    "name": "Tsadi",
+    "value": 90,
+    "meaning": "Justicia",
+    "audio": "",
+    "color": "#5A7A3A"
+  },
+  {
+    "id": "qof",
+    "char": "ק",
+    "name": "Qof",
+    "value": 100,
+    "meaning": "Nuca / santidad",
+    "audio": "",
+    "color": "#4B5A7A"
+  },
+  {
+    "id": "resh",
+    "char": "ר",
+    "name": "Resh",
+    "value": 200,
+    "meaning": "Cabeza",
+    "audio": "",
+    "color": "#7A4B5A"
+  },
+  {
+    "id": "shin",
+    "char": "ש",
+    "name": "Shin",
+    "value": 300,
+    "meaning": "Diente",
+    "audio": "",
+    "color": "#5A4B7A"
+  },
+  {
+    "id": "tav",
+    "char": "ת",
+    "name": "Tav",
+    "value": 400,
+    "meaning": "Señal",
+    "audio": "",
+    "color": "#6A5A4A"
+  }
+]
