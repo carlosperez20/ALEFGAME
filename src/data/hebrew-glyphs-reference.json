@@ -1,0 +1,48 @@
+{
+  "notes": "Referencia para assets de glifos. No reemplaza src/data/letters.json.",
+  "base_letters": [
+    { "id": "alef", "char": "א", "name": "Alef", "value": 1, "glyph": "/glyphs/base/alef.svg" },
+    { "id": "bet", "char": "ב", "name": "Bet", "value": 2, "glyph": "/glyphs/base/bet.svg" },
+    { "id": "gimel", "char": "ג", "name": "Guimel", "value": 3, "glyph": "/glyphs/base/gimel.svg" },
+    { "id": "dalet", "char": "ד", "name": "Dalet", "value": 4, "glyph": "/glyphs/base/dalet.svg" },
+    { "id": "he", "char": "ה", "name": "He", "value": 5, "glyph": "/glyphs/base/he.svg" },
+    { "id": "vav", "char": "ו", "name": "Vav", "value": 6, "glyph": "/glyphs/base/vav.svg" },
+    { "id": "zayin", "char": "ז", "name": "Zayin", "value": 7, "glyph": "/glyphs/base/zayin.svg" },
+    { "id": "chet", "char": "ח", "name": "Jet", "value": 8, "glyph": "/glyphs/base/chet.svg" },
+    { "id": "tet", "char": "ט", "name": "Tet", "value": 9, "glyph": "/glyphs/base/tet.svg" },
+    { "id": "yod", "char": "י", "name": "Yod", "value": 10, "glyph": "/glyphs/base/yod.svg" },
+    { "id": "kaf", "char": "כ", "name": "Kaf", "value": 20, "glyph": "/glyphs/base/kaf.svg" },
+    { "id": "lamed", "char": "ל", "name": "Lamed", "value": 30, "glyph": "/glyphs/base/lamed.svg" },
+    { "id": "mem", "char": "מ", "name": "Mem", "value": 40, "glyph": "/glyphs/base/mem.svg" },
+    { "id": "nun", "char": "נ", "name": "Nun", "value": 50, "glyph": "/glyphs/base/nun.svg" },
+    { "id": "samekh", "char": "ס", "name": "Samej", "value": 60, "glyph": "/glyphs/base/samekh.svg" },
+    { "id": "ayin", "char": "ע", "name": "Ayin", "value": 70, "glyph": "/glyphs/base/ayin.svg" },
+    { "id": "pe", "char": "פ", "name": "Pe", "value": 80, "glyph": "/glyphs/base/pe.svg" },
+    { "id": "tsadi", "char": "צ", "name": "Tsadi", "value": 90, "glyph": "/glyphs/base/tsadi.svg" },
+    { "id": "qof", "char": "ק", "name": "Qof", "value": 100, "glyph": "/glyphs/base/qof.svg" },
+    { "id": "resh", "char": "ר", "name": "Resh", "value": 200, "glyph": "/glyphs/base/resh.svg" },
+    { "id": "shin", "char": "ש", "name": "Shin", "value": 300, "glyph": "/glyphs/base/shin.svg" },
+    { "id": "tav", "char": "ת", "name": "Tav", "value": 400, "glyph": "/glyphs/base/tav.svg" }
+  ],
+  "sofit_letters": [
+    { "id": "kaf_sofit", "char": "ך", "name": "Kaf Sofit", "value": 500, "glyph": "/glyphs/sofit/kaf-sofit.svg" },
+    { "id": "mem_sofit", "char": "ם", "name": "Mem Sofit", "value": 600, "glyph": "/glyphs/sofit/mem-sofit.svg" },
+    { "id": "nun_sofit", "char": "ן", "name": "Nun Sofit", "value": 700, "glyph": "/glyphs/sofit/nun-sofit.svg" },
+    { "id": "pe_sofit", "char": "ף", "name": "Pe Sofit", "value": 800, "glyph": "/glyphs/sofit/pe-sofit.svg" },
+    { "id": "tsadi_sofit", "char": "ץ", "name": "Tsadi Sofit", "value": 900, "glyph": "/glyphs/sofit/tsadi-sofit.svg" }
+  ],
+  "vowels": [
+    { "id": "sheva", "char": "ְ", "name": "Sheva", "unicode": "U+05B0", "glyph": "/glyphs/vowels/sheva.svg" },
+    { "id": "hataf_segol", "char": "ֱ", "name": "Hataf Segol", "unicode": "U+05B1", "glyph": "/glyphs/vowels/hataf-segol.svg" },
+    { "id": "hataf_patah", "char": "ֲ", "name": "Hataf Patah", "unicode": "U+05B2", "glyph": "/glyphs/vowels/hataf-patah.svg" },
+    { "id": "hataf_qamats", "char": "ֳ", "name": "Hataf Qamats", "unicode": "U+05B3", "glyph": "/glyphs/vowels/hataf-qamats.svg" },
+    { "id": "hiriq", "char": "ִ", "name": "Hiriq", "unicode": "U+05B4", "glyph": "/glyphs/vowels/hiriq.svg" },
+    { "id": "tsere", "char": "ֵ", "name": "Tsere", "unicode": "U+05B5", "glyph": "/glyphs/vowels/tsere.svg" },
+    { "id": "segol", "char": "ֶ", "name": "Segol", "unicode": "U+05B6", "glyph": "/glyphs/vowels/segol.svg" },
+    { "id": "patah", "char": "ַ", "name": "Patah", "unicode": "U+05B7", "glyph": "/glyphs/vowels/patah.svg" },
+    { "id": "qamats", "char": "ָ", "name": "Qamats", "unicode": "U+05B8", "glyph": "/glyphs/vowels/qamats.svg" },
+    { "id": "holam", "char": "ֹ", "name": "Holam", "unicode": "U+05B9", "glyph": "/glyphs/vowels/holam.svg" },
+    { "id": "qubuts", "char": "ֻ", "name": "Qubuts", "unicode": "U+05BB", "glyph": "/glyphs/vowels/qubuts.svg" },
+    { "id": "shuruk", "char": "וּ", "name": "Shuruk", "unicode": "U+05D5+U+05BC", "glyph": "/glyphs/vowels/shuruk.svg" }
+  ]
+}
